@@ -1,0 +1,1 @@
+"C:\\Users\\rishikesh\\OneDrive\\Desktop\\python project\\icon.ico"
