@@ -1,4 +1,5 @@
-# Python-Project
+# Vocabulary Improvement System
+
 This is a Pyhton Project which helps you to improve your vocabulary skills.
 
 "VOCABULARY IMPROVEMENT SYSTEM" basically sends you notification in regular intervals. The notification includes a new word, its meaning and a correspondong sentence of it.
